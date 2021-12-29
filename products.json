@@ -1,0 +1,446 @@
+[{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36f4"
+  },
+  "name": "Waesgolor Rokas",
+  "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature.",
+  "price": 8.9,
+  "image": "https://images.pexels.com/photos/219779/pexels-photo-219779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Facile",
+  "diameter": 6,
+  "size": 7,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Cactus"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36f5"
+  },
+  "name": "Heiric Uriren",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 75.9,
+  "image": "https://images.pexels.com/photos/1561234/pexels-photo-1561234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Facile",
+  "diameter": 60,
+  "size": 120,
+  "brightness": [
+    "Ensoleillé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36f6"
+  },
+  "name": "Kriskrana Valrora",
+  "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature.",
+  "price": 12.9,
+  "image": "https://images.pexels.com/photos/595103/pexels-photo-595103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Facile",
+  "diameter": 4,
+  "size": 6,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Cactus"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36f7"
+  },
+  "name": "Genwarin Zinven",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 40.9,
+  "image": "https://images.pexels.com/photos/2231380/pexels-photo-2231380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Facile",
+  "diameter": 10,
+  "size": 60,
+  "brightness": [
+    "Ensoleillé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36f8"
+  },
+  "name": "Mormaer Glynsandoral",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 119.9,
+  "image": "https://images.pexels.com/photos/1133413/pexels-photo-1133413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Difficile",
+  "diameter": 6,
+  "size": 20,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus",
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36f9"
+  },
+  "name": "Heimaer Glynsandoral",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 21.5,
+  "image": "https://images.pexels.com/photos/2133951/pexels-photo-2133951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Difficile",
+  "diameter": 4,
+  "size": 5,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Cactus",
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36fa"
+  },
+  "name": "Virro Miraxalim",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 15.5,
+  "image": "https://images.pexels.com/photos/8953548/pexels-photo-8953548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Facile",
+  "diameter": 10,
+  "size": 40,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus",
+    "Aloès"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36fb"
+  },
+  "name": "Ralowarin Omaydarkm",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 11.5,
+  "image": "https://images.pexels.com/photos/5457927/pexels-photo-5457927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Facile",
+  "diameter": 10,
+  "size": 20,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus",
+    "Aloès"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36fc"
+  },
+  "name": "Keakas Lumenor",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 170.5,
+  "image": "https://images.pexels.com/photos/583791/pexels-photo-583791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Difficile",
+  "diameter": 60,
+  "size": 140,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus",
+    "Fruit"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36fd"
+  },
+  "name": "Ianpetor Pertumal",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 90.5,
+  "image": "https://images.pexels.com/photos/5799235/pexels-photo-5799235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Difficile",
+  "diameter": 90,
+  "size": 70,
+  "brightness": [
+    "Ensoleillé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus",
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36fe"
+  },
+  "name": "Perkas Morsandoral",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 90.5,
+  "image": "https://images.pexels.com/photos/3779470/pexels-photo-3779470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "care": "Difficile",
+  "diameter": 150,
+  "size": 60,
+  "brightness": [
+    "Ensoleillé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Cactus"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c36ff"
+  },
+  "name": "Yelsalor Fenhorn",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 240.5,
+  "image": "https://images.pexels.com/photos/720375/pexels-photo-720375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Difficile",
+  "diameter": 170,
+  "size": 120,
+  "brightness": [
+    "Ensoleillé"
+  ],
+  "water": "Élevé",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Fleur",
+    "Tropcal"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3700"
+  },
+  "name": "Monstera Qinsandoral",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 80.9,
+  "image": "https://images.pexels.com/photos/6297518/pexels-photo-6297518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Moyen",
+  "diameter": 60,
+  "size": 70,
+  "brightness": [
+    "Ombragé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Tropcal"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3701"
+  },
+  "name": "Perran Qiwraek",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 20.45,
+  "image": "https://images.pexels.com/photos/7291746/pexels-photo-7291746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Difficile",
+  "diameter": 6,
+  "size": 10,
+  "brightness": [
+    "Ensolleilé",
+    "Mi-ombragé"
+  ],
+  "water": "Élevé",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Tropcal",
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3702"
+  },
+  "name": "Orchidae Miraro",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 14.5,
+  "image": "https://images.pexels.com/photos/3888594/pexels-photo-3888594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Difficile",
+  "diameter": 4,
+  "size": 8,
+  "brightness": [
+    "Ombragé",
+    "Mi-ombragé"
+  ],
+  "water": "Élevé",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Tropcal",
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3703"
+  },
+  "name": "Palmon Tropihanus",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 69.9,
+  "image": "https://images.pexels.com/photos/9895742/pexels-photo-9895742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Facile",
+  "diameter": 10,
+  "size": 120,
+  "brightness": [
+    "Ensolleilé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Tropcal"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3704"
+  },
+  "name": "Fougeranae Tropihanus",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 9.9,
+  "image": "https://images.pexels.com/photos/3972650/pexels-photo-3972650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Facile",
+  "diameter": 140,
+  "size": 60,
+  "brightness": [
+    "Ombragé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Tropcal"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3705"
+  },
+  "name": "Pivoitorus Floratae",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 40.9,
+  "image": "https://images.pexels.com/photos/6495764/pexels-photo-6495764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Moyen",
+  "diameter": 80,
+  "size": 50,
+  "brightness": [
+    "Ensolleilé",
+    "Mi-ombragé"
+  ],
+  "water": "Élevé",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3706"
+  },
+  "name": "Bluteanarus Blubleblue",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 90.45,
+  "image": "https://images.pexels.com/photos/3686216/pexels-photo-3686216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Difficile",
+  "diameter": 3,
+  "size": 6,
+  "brightness": [
+    "Ensolleilé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3707"
+  },
+  "name": "Coquliqulo Michelpalaref",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 90.45,
+  "image": "https://images.pexels.com/photos/1458377/pexels-photo-1458377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Faible",
+  "diameter": 3,
+  "size": 6,
+  "brightness": [
+    "Ensolleilé",
+    "Mi-ombragé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "619cc8b06d06108fce5c3708"
+  },
+  "name": "Rosarius Floratae",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 30.9,
+  "image": "https://images.pexels.com/photos/62332/pexels-photo-62332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Moyen",
+  "diameter": 10,
+  "size": 20,
+  "brightness": [
+    "Ensolleilé",
+    "Mi-ombragé"
+  ],
+  "water": "Moyen",
+  "place": "Plante d'intérieur",
+  "type": [
+    "Fleur"
+  ]
+},{
+  "_id": {
+    "$oid": "61af810408fea5b634dea973"
+  },
+  "name": "Joris Poupoune",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 45.5,
+  "image": "https://images.pexels.com/photos/6292342/pexels-photo-6292342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "care": "Facile",
+  "diameter": 50,
+  "size": 60,
+  "brightness": [
+    "Ensoleillé"
+  ],
+  "water": "Faible",
+  "place": "Plante d'extérieur",
+  "type": [
+    "Cactus"
+  ],
+  "__v": 0
+}]
